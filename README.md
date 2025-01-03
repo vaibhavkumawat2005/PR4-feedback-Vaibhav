@@ -62,9 +62,8 @@ https://github.com/user-attachments/assets/96df4705-e1a6-465c-b7d5-231ef68b2b77
         <pre><code>npm install</code></pre>
         <li>Start the development server:</li>
         <pre><code>npm start</code></pre>
-        <li>Open your browser and go to <a href="http://localhost:3000" target="_blank">http://localhost:3000</a>.</li>
-      </ol>
-    </section>
+       
+</section>
     <section >
       <h2>🗂️ Project Structure</h2>
       <p>The project is organized as follows:</p>
