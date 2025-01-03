@@ -121,7 +121,7 @@ function Card() {
         <div className="ms-5 mt-4">
           <div className="card h-100" style={{ width: "18rem" }}>
             <img
-              src="https://lh3.googleusercontent.com/proxy/p-p7J8Fvil-T17dyAhuc8uk1Eejh7_HR-wVBNIkNq4mJx49HT56xP8LdvIJRGnSwRZfkHvz37OwmCvi9TY0pVgCdZPX6-ZRv1e9kwP3RIXW-bc2gSuHE07mmo3cl"
+              src="src/assets/image/dp3_1sht_digital_srgb_ka_swords_v5_resized.jpg"
               className="card-img-top h-75"
               alt="Deadpool"
             />
