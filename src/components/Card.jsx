@@ -111,7 +111,7 @@ function Card() {
               <button
                 type="button"
                 className="btn btn-primary"
-                onClick={() => handleModalToggle("Black Panther")}
+                onClick={() => handleModalToggle("Iron Man 3")}
               >
                 Give Feedback
               </button>
