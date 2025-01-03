@@ -1,0 +1,28 @@
+.navbar {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.marvelLogo {
+  font-family: "Impact", sans-serif;
+  font-size: 2rem;
+  color: #e50914;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding-left: 25px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+  color: #ffcc00;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #ffcc00;
+  text-shadow: 2px 2px 4px rgba(255, 204, 0, 0.8);
+}
